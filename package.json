@@ -1,0 +1,14 @@
+{
+  "name": "aus",
+  "version": "1.0.0",
+  "description": "selfbot",
+  "main": "index.js",
+  "author": "Austin Wheeler",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.1",
+    "qs": "^6.3.0",
+    "request": "^2.79.0"
+  }
+}
